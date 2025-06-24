@@ -10,6 +10,10 @@ An advanced 3D animated real estate website built using HTML, CSS, and GSAP. Thi
 - Modern responsive layout
 - Custom-built user interface for showcasing property highlights
 
+- ## 🚀 Live Preview
+
+👉 [Click Here to View the Live Site] https://ZidannShaikh.github.io/Real-Estate/
+
 
 ## 🛠️ Technologies Used
 
